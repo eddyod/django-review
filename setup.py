@@ -56,7 +56,7 @@ setup(
         'django-user-media>=1.0',
         'django-generic-positions',
         'django-hvad>=0.4.1, <=1.0.0',
-        docutils >= 0.3, <=0.5
+        'docutils >= 0.3, <=0.5',
         'easy-thumbnails',
         'simplejson',
     ],
